@@ -1,2 +1,2 @@
-This is my second app!!!
-animaion practice of beginner
+exercise for github.
+how to deploy a file to github repository.
